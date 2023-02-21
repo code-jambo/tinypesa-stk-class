@@ -1,6 +1,6 @@
 <?php
 
-class tinypesa
+class tinyPesa
 {
     protected $url = 'https://tinypesa.com/api/v1/express/initialize';
     protected $status_url ='https://tinypesa.com/api/v1/express/get_status/';
